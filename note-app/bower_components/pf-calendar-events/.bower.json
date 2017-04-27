@@ -1,0 +1,58 @@
+{
+  "name": "pf-calendar-events",
+  "main": "pf-calendar-events.html",
+  "element-collection": "pf-elements",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0-rc.2"
+  },
+  "authors": [
+    "Pixy Flux <info@pixyflux.com>"
+  ],
+  "homepage": "http://pixyflux.com",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "Polymer",
+    "Polymer 2.0",
+    "date",
+    "calendar",
+    "appoointment",
+    "schedule",
+    "event",
+    "meetings",
+    "reminder",
+    "task"
+  ],
+  "bugs": {
+    "url": "https://github.com/PFElements/pf-calendar-events/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PFElements/pf-calendar-events"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#2.0-preview",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#2.0-preview",
+    "web-component-tester": "v6.0.0-prerelease.5",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0-rc.5"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0-rc.2"
+  },
+  "version": "0.1.6",
+  "_release": "0.1.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.6",
+    "commit": "181c6b65508ae4ad30962997cf9f6a60fa964d60"
+  },
+  "_source": "https://github.com/PFElements/pf-calendar-events.git",
+  "_target": "^0.1.6",
+  "_originalSource": "PFElements/pf-calendar-events",
+  "_direct": true
+}
